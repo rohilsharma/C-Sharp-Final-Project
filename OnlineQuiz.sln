@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineQuiz", "OnlineQuiz\OnlineQuiz.csproj", "{52502358-E30A-4A21-AB98-3A7E863A7B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52502358-E30A-4A21-AB98-3A7E863A7B55}.Debug|x86.ActiveCfg = Debug|x86
+		{52502358-E30A-4A21-AB98-3A7E863A7B55}.Debug|x86.Build.0 = Debug|x86
+		{52502358-E30A-4A21-AB98-3A7E863A7B55}.Release|x86.ActiveCfg = Release|x86
+		{52502358-E30A-4A21-AB98-3A7E863A7B55}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
